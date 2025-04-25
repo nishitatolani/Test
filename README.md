@@ -14,8 +14,7 @@ A React Native application for managing credit cards with features like adding n
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/credit-card-app.git
-cd credit-card-app
+git clone https://github.com/nishitatolani/Test/tree/feature/development
 \`\`\`
 
 2. Install dependencies:
@@ -63,24 +62,14 @@ The app uses a mock API implementation that simulates backend functionality:
 
 - React Native
 - TypeScript
-- Redux Toolkit for state management
+- Redux for state management
 - React Navigation for navigation
 - AsyncStorage for local data persistence
 - React Native Modal for modals
 
-## Testing
-
-Run the tests with:
-
-\`\`\`bash
-npm test
-\`\`\`
 
 ## License
 
 MIT
 \`\`\`
 
-## Unit Tests
-
-Let's add some basic unit tests for our components:
